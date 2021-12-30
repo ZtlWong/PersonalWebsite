@@ -31,8 +31,8 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-I am a second year M.S. student 
+I am a second year M.S. student interested in thermal sciences and the mathematics that governs it. My love for these subject was 
 
-During my time here I've had the pleasure of researching under the direction of <a href="https://scholar.google.com/citations?user=cTy5nxwAAAAJ&hl=en"> Dr. Ivan Catton</a> Dr. Ivan Catton and Dr. Timothy Fisher. 
+And has been slowly fostered by many incredible faculty and peers at UCLA. During my time here I've had the pleasure of researching under the direction of <a href="https://scholar.google.com/citations?user=cTy5nxwAAAAJ&hl=en"> Dr. Ivan Catton</a> and <a href="https://scholar.google.com/citations?user=cTy5nxwAAAAJ&hl=en"> Dr. Timothy Fisher</a> as part of the NTRG Lab. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
