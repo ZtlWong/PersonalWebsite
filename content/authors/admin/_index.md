@@ -3,9 +3,9 @@ title: Zachary Wong
 role: M.S. Mechanical Engineering Student
 bio: ""
 interests:
-  - HeatandMassTransfer
-  - ComputationalFluidDynamics
-  - AppliedMathematics
+  - Heat and Mass Transfer
+  - Computational Fluid Dynamics
+  - Applied Mathematics
 social:
   - icon: envelope
     icon_pack: fas
@@ -31,9 +31,8 @@ email: ""
 superuser: true
 highlight_name: true
 ---
+I am a second year M.S. student 
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+During my time here I've had the pleasure of researching under the direction of <a href="https://scholar.google.com/citations?user=cTy5nxwAAAAJ&hl=en"> Dr. Ivan Catton</a> Dr. Ivan Catton and Dr. Timothy Fisher. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
