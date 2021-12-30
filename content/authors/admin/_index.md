@@ -1,6 +1,6 @@
 ---
 title: Zachary Wong
-role: UCLA M.S. Mechanical Engineering Student
+role: M.S. Mechanical Engineering Student
 bio: ""
 interests:
   - HeatandMassTransfer
@@ -17,7 +17,7 @@ social:
     icon_pack: fab
     link: www.linkedin.com/in/zacharytlwong
 organizations:
-  - name: "UCLA "
+  - name: University of California Los Angeles
     url: https://www.ucla.edu/
 education:
   courses:
