@@ -26,20 +26,20 @@ item:
     align: center
     overlay_color: '#555'
     overlay_img: bubbles.jpg
-    overlay_filter: 0.1    # Darken the image. Value in range 0-1.
+    overlay_filter: 0.8    # Darken the image. Value in range 0-1.
   - title: Learning Mandarin
     content: 'Follow my journey learning a new language'
     align: center
     # Background Color 
     overlay_color: '#555'
-    overlay_img: ''
-    overlay_filter: 0.5 
+    overlay_img: 'caligraphy_v2.jfif'
+    overlay_filter: 0.7 
   - title: Personal Blog 
     content: ''
     align: center
     overlay_color: '#333'
-    overlay_img: ''
-    overlay_filter: 0.9    
+    overlay_img: 'blog_v2.jfif'
+    overlay_filter: 0.7   
     #Call-to-Action Button 
     cta_label: Check out more posts!
     cta_url: 'ztlwong.github.io'
