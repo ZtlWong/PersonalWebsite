@@ -43,6 +43,6 @@ design:
 * Wong, Z.W., Jin, K., Krishna A.B., Fisher, T.S. (2022). Compact Maldistribution Metrics for Shell and Tube Heat Exchangers 
 
 
-{{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
-{{% /callout %}}
+# {{% callout note %}}
+# Quickly discover relevant content by [filtering publications](./publication/).
+# {{% /callout %}}
