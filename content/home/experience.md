@@ -25,7 +25,7 @@ experience:
   - title: Teaching 
     company: UCLA Samueli School of Engineering
     company_url: 'https://samueli.ucla.edu/'
-    company_logo: ucla.jfif
+    company_logo: ucla
     location: California
     date_start: '2021-08-01'
     date_end: ''
@@ -37,7 +37,7 @@ experience:
   - title: NTRG Student Researcher 
     company: UCLA Samueli School of Engineering 
     company_url: ''
-    company_logo: org-x
+    company_logo: ucla
     location: California
     date_start: '2019-09-01'
     date_end: ''
@@ -46,7 +46,7 @@ experience:
   - title: Morin-Martinelli-Gier Memorial Heat Transfer Laboratory Researcher
     company: UCLA Samueli School of Engineering 
     company_url: ''
-    company_logo: org-x
+    company_logo: ucla
     location: California
     date_start: '2019-06-01'
     date_end: '2019-09-01'
