@@ -1,6 +1,7 @@
 ---
 title: Zachary Wong
 role: M.S. Mechanical Engineering Student
+avatar_filename: pxl_20211231_194839571.portrait_2.jpg
 bio: ""
 interests:
   - Heat and Mass Transfer
