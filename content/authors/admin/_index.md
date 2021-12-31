@@ -7,9 +7,6 @@ interests:
   - Computational Fluid Dynamics
   - Applied Mathematics
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: zacharytlwong@gmail.com
   - icon: github
     icon_pack: fab
     link: https://github.com/ZtlWong
