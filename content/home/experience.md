@@ -22,28 +22,35 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
+  - title: Teaching 
+    company: UCLA Samueli School of Engineering
+    company_url: 'https://samueli.ucla.edu/'
     company_logo: org-gc
     location: California
-    date_start: '2021-01-01'
+    date_start: '2021-08-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
+        **Winter '22 Teaching Assistant - MAE 105A Thermodynamics** 
+        **Fall '21 Teaching Assistant - MAE 105D Transport Phenomena**
+        **Summer '21 CEED Instructor - MAE 105A Thermodynamics**
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: NTRG Student Researcher 
+    company: UCLA Samueli School of Engineering 
     company_url: ''
     company_logo: org-x
     location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    date_start: '2019-09-01'
+    date_end: ''
+    description: 
+    
+  - title: Morin-Martinelli-Gier Memorial Heat Transfer Laboratory Researcher
+    company: UCLA Samueli School of Engineering 
+    company_url: ''
+    company_logo: org-x
+    location: California
+    date_start: '2019-06-01'
+    date_end: '2019-09-01'
+    description:  
 
 design:
   columns: '2'
