@@ -25,7 +25,7 @@ experience:
   - title: Teaching 
     company: UCLA Samueli School of Engineering
     company_url: 'https://samueli.ucla.edu/'
-    company_logo: org-gc
+    company_logo: ucla.jfif
     location: California
     date_start: '2021-08-01'
     date_end: ''
