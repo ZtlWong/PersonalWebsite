@@ -21,21 +21,21 @@ height: 300px
 # Item 1
 item:
   - title: Book Review: Einstein's Fridge - Paul Sen
-    content: A brief history of thermodynamics 
+    content: 'A brief history of thermodynamics'
     # Choose `center`, `left`, or `right` alignment.
     align: center
     overlay_color: '#555'
     overlay_img: bubbles.jpg
     overlay_filter: 0.1    # Darken the image. Value in range 0-1.
   - title: Learning Mandarin
-    content: Follow my journey learning a new language
+    content: 'Follow my journey learning a new language'
     align: center
     # Background Color 
     overlay_color: '#555'
     overlay_img: ''
     overlay_filter: 0.5 
   - title: Personal Blog 
-    # content: 
+    content: ''
     align: center
     overlay_color: '#333'
     overlay_img: ''
