@@ -6,6 +6,8 @@ draft: false
 featured: false
 tags:
   - Applied_Mathematics
+categories:
+  - coursework
 image:
   filename: featured
   focal_point: Smart
