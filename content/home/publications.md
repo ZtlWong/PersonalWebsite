@@ -37,9 +37,10 @@ design:
   view: 4
 ---
 
-* Jin, K., Krishna A.B., Wong, Z.W., Fisher, T.S. (2021). Experimental Demonstration of Supercritical Carbon Dioxide Heat Exchanger Under Extreme Conditions \ 
-* Jin, K., Krishna A.B., Wong, Z.W., Fisher, T.S. (2021). A Critical Review of Heat Exchanger Design and Optimization for Extreme Temperature and Pressure Conditions \
-* Wong, Z.W., Jin, K., Krishna A.B., Fisher, T.S. (2022). Compact Maldistribution Metrics for Shell and Tube Heat Exchangers \
+**In Progress**
+* Jin, K., Krishna A.B., Wong, Z.W., Fisher, T.S. (2021). Experimental Demonstration of Supercritical Carbon Dioxide Heat Exchanger Under Extreme Conditions 
+* Jin, K., Krishna A.B., Wong, Z.W., Fisher, T.S. (2021). A Critical Review of Heat Exchanger Design and Optimization for Extreme Temperature and Pressure Conditions 
+* Wong, Z.W., Jin, K., Krishna A.B., Fisher, T.S. (2022). Compact Maldistribution Metrics for Shell and Tube Heat Exchangers 
 
 
 {{% callout note %}}
