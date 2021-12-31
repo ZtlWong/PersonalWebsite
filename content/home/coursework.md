@@ -10,7 +10,7 @@ headless: true
 weight: 45
 
 title: Coursework
-subtitle: 'These courses and professors have been influentual in fostering my academic interests. I've attached a number of resources that I've developed for some of them with more updates to come.' 
+subtitle: Resources and notes from several courses I've taken and/or taught.  
 
 content:
   page_type: project
