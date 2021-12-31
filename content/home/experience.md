@@ -30,8 +30,8 @@ experience:
     date_start: '2021-08-01'
     date_end: ''
     description: |2-
-        **Winter '22 Teaching Assistant - MAE 105A Thermodynamics** 
-        **Fall '21 Teaching Assistant - MAE 105D Transport Phenomena**
+        **Winter '22 Teaching Assistant - MAE 105A Thermodynamics** \
+        **Fall '21 Teaching Assistant - MAE 105D Transport Phenomena** \
         **Summer '21 CEED Instructor - MAE 105A Thermodynamics**
         
   - title: NTRG Student Researcher 
