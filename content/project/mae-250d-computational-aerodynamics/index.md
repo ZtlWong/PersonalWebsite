@@ -6,6 +6,7 @@ draft: false
 featured: false
 tags:
   - Fluid_Mechanics
+  - Applied_Mathematics
 image:
   filename: featured
   focal_point: Smart
