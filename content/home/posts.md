@@ -25,7 +25,7 @@ item:
     # Choose `center`, `left`, or `right` alignment.
     align: center
     overlay_color: '#555'
-    overlay_img: ''
+    overlay_img: bubbles.jpg
     overlay_filter: 0.1    # Darken the image. Value in range 0-1.
   - title: Learning Mandarin
     content: Follow my journey learning a new language
@@ -35,7 +35,7 @@ item:
     overlay_img: ''
     overlay_filter: 0.5 
   - title: Personal Blog 
-    content: 
+    # content: 
     align: center
     overlay_color: '#333'
     overlay_img: ''
