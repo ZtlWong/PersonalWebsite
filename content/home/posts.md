@@ -25,7 +25,7 @@ item:
     # Choose `center`, `left`, or `right` alignment.
     align: center
     overlay_color: '#333'
-    overlay_img: bubbles.jpg
+    overlay_img: thermodynamics.jpg
     overlay_filter: 0.5    # Darken the image. Value in range 0-1.
   - title: Learning Mandarin
     content: 'Follow my journey learning a new language'
