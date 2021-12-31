@@ -31,7 +31,7 @@ content:
   - name: Fluid Mechanics
     tag: Fluid_Mechanics
   - name: Applied Mathematics
-    tag: Applied_Math
+    tag: Applied_Mathematics
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
