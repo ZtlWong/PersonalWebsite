@@ -31,4 +31,4 @@ highlight_name: true
 ---
 I am a second year M.S. student studying mechanical engineering with an emphasis on thermal sciences and applied mathematics. My interests in these fields have been fostered by several years of research under the direction of [Dr. Ivan Catton](https://scholar.google.com/citations?user=cTy5nxwAAAAJ&hl=en) and [Dr. Timothy Fisher](https://scholar.google.com/citations?user=k36VHW8AAAAJ&hl=en) as part of UCLA's Nano Transport Research Group ([NTRG](https://ntrg.seas.ucla.edu/)). I hope to continue expanding on this foundation as I pursue my doctoral work this coming fall. 
 
-{{< icon name="download" pack="fas" >}} To learn more, please feel free to download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}} or check out some of my work below.
+{{< icon name="download" pack="fas" >}} To learn more, please feel free to download my {{< staticref "uploads/Resume.pdf" "newtab" >}}resumé{{< /staticref >}} or check out some of my work below.
