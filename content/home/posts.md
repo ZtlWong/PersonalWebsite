@@ -42,7 +42,7 @@ item:
     overlay_filter: 0.5   
     #Call-to-Action Button 
     cta_label: Check out more posts!
-    cta_url: 'ztlwong.github.io'
+    cta_url: ztlwong.github.io
     cta_icon_pack: fas
     cta_icon: pencil-alt
     
