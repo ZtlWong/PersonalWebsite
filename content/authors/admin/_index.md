@@ -13,7 +13,7 @@ social:
     link: https://github.com/ZtlWong
   - icon: linkedin
     icon_pack: fab
-    link: www.linkedin.com/in/zacharytlwong
+    link: https://www.linkedin.com/in/zacharytlwong/
 organizations:
   - name: University of California Los Angeles
     url: https://www.ucla.edu/
